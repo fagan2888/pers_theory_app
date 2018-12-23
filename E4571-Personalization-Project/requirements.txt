@@ -6,3 +6,5 @@ seaborn
 matplotlib
 surprise
 implicit
+time
+lightfm
